@@ -1,0 +1,11 @@
+django
+redis
+celery[redis]
+djangorestframework
+markdown
+django-filter
+djangorestframework-simplejwt
+drf-yasg
+psycopg2-binary
+django_redis
+whitenoise
